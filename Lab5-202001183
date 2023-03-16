@@ -39,5 +39,9 @@ Select the tool of your choice. Select a git repository, use the selected tool a
 from the selected repository. Submit the tool output and understanding of the errors.
 
 Hear given tools i use mypy.
-A)Frist i install mypy.
-
+Steps:
+    A)Frist i install mypy.
+    B)Now i check the errors in the given python files.
+    C)Check the first file with mypy and check is there any error present or not.
+    D)Check the second file with mypy and check is there any error present or not.
+    E)Check the third file with mypy and check is there any error present or not.
